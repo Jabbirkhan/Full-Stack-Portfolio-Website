@@ -473,7 +473,6 @@ Follow these steps to run the project locally.
 
 ```bash
 git clone https://github.com/Jabbirkhan/Full-Stack-Portfolio-Website.git
-cd portfolio-website
 ```
 
 ### 2. Install Dependencies
@@ -643,22 +642,6 @@ All supported content can be managed through the Admin Dashboard.
 - [ ] Contact form email delivery
 - [ ] Responsive layouts
 - [ ] Production environment configuration
-
----
-
-## 🚀 Future Enhancements
-
-Potential features for future versions:
-
-- Blog integration
-- Testimonials section
-- Client reviews
-- Project analytics
-- Dark mode
-- Multi-language support
-- Project tags and advanced search
-- Downloadable portfolio PDF
-- Multi-user portfolio support
 
 ---
 
