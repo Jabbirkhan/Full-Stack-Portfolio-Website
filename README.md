@@ -472,7 +472,7 @@ Follow these steps to run the project locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Jabbirkhan/Full-Stack-Portfolio-Website-MERN-STACK-.git
+git clone https://github.com/Jabbirkhan/Full-Stack-Portfolio-Website.git
 cd portfolio-website
 ```
 
